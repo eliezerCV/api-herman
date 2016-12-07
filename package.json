@@ -1,0 +1,20 @@
+{
+  "name": "calificacion-juegos",
+  "version": "1.0.0",
+  "description": "api para el proyecto de desarrollo de aplicaciones web 2",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "~1.13.2",
+    "dateformat": "^2.0.0",
+    "express": "~4.13.1",
+    "jsonwebtoken": "^7.1.9",
+    "method-override": "^2.1.2",
+    "mongoose": "~3.6.11"
+  },
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "eliezer",
+  "license": "ISC"
+}
